@@ -1,4 +1,4 @@
-== README
+###README###
 
 This is a basic REST api for a food resource.
 
@@ -27,7 +27,7 @@ food[place]: Name of the place the food resides
 This will delete the food with the related :id
 
 
-***RSPEC***
+##RSPEC##
 
 There are three tests. Each tests a basic function of a restful api.
 
